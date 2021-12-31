@@ -82,12 +82,13 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 5px;
+    margin-top: 20px;
 }
 .card-body.card-details{
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .card-eth{
