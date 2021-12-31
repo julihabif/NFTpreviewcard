@@ -82,6 +82,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 5px;
 }
 .card-body.card-details{
     display: flex;
